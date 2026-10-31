@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.claude/
+.env
+.streamlit/secrets.toml
+db/rfp.db
+db/Untitled*.ipynb
+PROJECT_CONTEXT.md
+Mini Project - Problem Description.pdf
